@@ -2090,6 +2090,7 @@ Bitcoin.prototype.getInfo = function(callback) {
     var info = {
       version: result.version,
       protocolVersion: result.protocolversion,
+      KMDversion: result.KMDversion,
       blocks: result.blocks,
       timeOffset: result.timeoffset,
       connections: result.connections,
