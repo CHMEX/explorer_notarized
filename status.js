@@ -52,6 +52,7 @@ StatusController.prototype.getInfo = function(callback) {
  var info = {
       version: result.version,
       protocolversion: result.protocolVersion,
+      KMDversion: result.KMDversion,
       blocks: result.blocks,
       timeoffset: result.timeOffset,
       connections: result.connections,
