@@ -15,3 +15,6 @@ Changed Parts are:
 - https://github.com/CHMEX/explorer_notarized/blob/master/status.js#L63
 - https://github.com/CHMEX/explorer_notarized/blob/master/header.html#L39
 
+25.01.2020
+Update: add KMDversion
+
